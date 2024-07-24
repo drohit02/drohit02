@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/drohit02](https://github.com/drohit02)
 
-- 📫 How to reach me **drohit045@gmail,com**
+- 📫 How to reach me **drohit045@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aL0Rn8UlEVmz0uzzK6dBzVKmLjEE0Lxm/view?usp=sharing](https://drive.google.com/file/d/1aL0Rn8UlEVmz0uzzK6dBzVKmLjEE0Lxm/view?usp=sharing)
 
