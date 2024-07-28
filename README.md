@@ -1,6 +1,3 @@
-
-[![](https://visitcount.itsvg.in/api?id=drohit02&icon=5&color=5)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Ecommerce using SpringBoot and Angular<br>👯 All of my projects are available at https://github.com/drohit02<br>🤝How to reach me drohit045@gmail.com<br>🌱 I’m currently learning SpringBoot,Microservice,RESTful API<br>💬 📄 Know about my experiences https://drive.google.com/file/d/1aL0Rn8UlEVmz0uzzK6dBzVKmLjEE0Lxm/view?usp=sharing
 
@@ -22,5 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=drohit02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=drohit02&icon=5&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
