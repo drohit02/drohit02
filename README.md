@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **drohit045@gmail.com**
 
-- 📄 Know about my experience [https://drive.google.com/file/d/1aL0Rn8UlEVmz0uzzK6dBzVKmLjEE0Lxm/view?usp=sharing](https://drive.google.com/file/d/1aL0Rn8UlEVmz0uzzK6dBzVKmLjEE0Lxm/view?usp=sharing)
+- 📄 Know about my experience [https://drive.google.com/file/d/1eA2HvrukvIo_pfT_B7eNPPw0jMv6JACP/view?usp=sharing](https://drive.google.com/file/d/1eA2HvrukvIo_pfT_B7eNPPw0jMv6JACP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,8 +43,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drohit02&show_icons=true&locale=en&layout=compact" alt="drohit02" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drohit02&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="drohit02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drohit02&show_icons=true&locale=en" alt="drohit02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drohit02&show_icons=true&locale=en&cache_seconds=86400" alt="drohit02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drohit02&" alt="drohit02" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=drohit02" alt="drohit02" /></p>
